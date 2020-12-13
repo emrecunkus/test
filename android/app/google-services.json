@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674722042232",
+    "project_id": "game-test-83a11",
+    "storage_bucket": "game-test-83a11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674722042232:android:4e420cdbba9241d3bc388d",
+        "android_client_info": {
+          "package_name": "com.example.hello_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674722042232-059m47q5ievo11ah6p22a5g6b562h9gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3txEXrXF4fzXQaIcaxBT02HN5K_mimto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674722042232-059m47q5ievo11ah6p22a5g6b562h9gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
